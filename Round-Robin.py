@@ -54,4 +54,4 @@ avg_turnaround /= 3
 
 print("Order:", order_message)
 print("Average Waiting Time:", avg_waiting)
-print("Average Turnaround tTime:", avg_turnaround)
+print("Average Turnaround Time:", avg_turnaround)
